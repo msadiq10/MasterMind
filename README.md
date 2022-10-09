@@ -1,5 +1,5 @@
 # MasterMind
-The famous mastermind game implemented in C and ARM Assembler to under the concept of Systems Programming.
+The famous mastermind game implemented in C and ARM Assembler to understand the concept of Systems Programming.
 
 ## Build and Run
 You can build the C program, starting from the template in `master-mind-terminal.c`, by typing
